@@ -1,0 +1,18 @@
+{
+  "name": "usingnpm",
+  "version": "0.0.1",
+  "description": "using npm for the first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "using"
+  ],
+  "author": "parth",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
